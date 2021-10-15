@@ -1,5 +1,5 @@
 {
-  "name": "react-2",
+  "name": "package.json",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This repo contains the starter code for the 2rd React lesson in UC Berkeley's Introduction to Full-Stack Development DeCal.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
