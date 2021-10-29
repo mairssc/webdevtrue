@@ -1,0 +1,2 @@
+imgstoring is expensive in databases
+store image in computer memory directly
